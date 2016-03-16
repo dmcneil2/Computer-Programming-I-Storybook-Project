@@ -1,0 +1,17 @@
+C:\Users\STEM\AppData\Local\Temporary Projects\CP Storybook Project\bin\Debug\CP Storybook Project.exe
+C:\Users\STEM\AppData\Local\Temporary Projects\CP Storybook Project\bin\Debug\CP Storybook Project.pdb
+C:\Users\STEM\AppData\Local\Temporary Projects\CP Storybook Project\obj\x86\Debug\CP_Storybook_Project.Menu.resources
+C:\Users\STEM\AppData\Local\Temporary Projects\CP Storybook Project\obj\x86\Debug\CP_Storybook_Project.Properties.Resources.resources
+C:\Users\STEM\AppData\Local\Temporary Projects\CP Storybook Project\obj\x86\Debug\CP Storybook Project.csproj.GenerateResource.Cache
+C:\Users\STEM\AppData\Local\Temporary Projects\CP Storybook Project\obj\x86\Debug\CP Storybook Project.exe
+C:\Users\STEM\AppData\Local\Temporary Projects\CP Storybook Project\obj\x86\Debug\CP Storybook Project.pdb
+C:\Users\STEM\AppData\Local\Temporary Projects\CP Storybook Project\obj\x86\Debug\CP_Storybook_Project.Page1.resources
+C:\Users\STEM\AppData\Local\Temporary Projects\CP Storybook Project\obj\x86\Debug\CP_Storybook_Project.Page2.resources
+C:\Users\STEM\AppData\Local\Temporary Projects\CP Storybook Project\obj\x86\Debug\CP_Storybook_Project.Page3.resources
+C:\Users\STEM\AppData\Local\Temporary Projects\CP Storybook Project\obj\x86\Debug\CP_Storybook_Project.Page4.resources
+C:\Users\STEM\AppData\Local\Temporary Projects\CP Storybook Project\obj\x86\Debug\CP_Storybook_Project.Page5.resources
+C:\Users\STEM\AppData\Local\Temporary Projects\CP Storybook Project\obj\x86\Debug\CP_Storybook_Project.Page6.resources
+C:\Users\STEM\AppData\Local\Temporary Projects\CP Storybook Project\obj\x86\Debug\CP_Storybook_Project.Page7.resources
+C:\Users\STEM\AppData\Local\Temporary Projects\CP Storybook Project\obj\x86\Debug\CP_Storybook_Project.Page8.resources
+E:\CP Storybook Project\obj\x86\Debug\CP Storybook Project.exe
+E:\CP Storybook Project\obj\x86\Debug\CP Storybook Project.pdb

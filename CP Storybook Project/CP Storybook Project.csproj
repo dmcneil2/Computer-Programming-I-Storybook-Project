@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{8640E0D6-3DFA-4167-A399-D885E71AF774}</ProjectGuid>
+    <ProjectGuid>{C8D10ABC-F466-4421-A4F6-D6F97B444102}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>CP_Storybook_Project</RootNamespace>
@@ -34,8 +34,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Microsoft.VisualBasic" />
-    <Reference Include="Microsoft.VisualBasic.Compatibility" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -48,14 +46,95 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="CoverPage.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="CoverPage.Designer.cs">
+      <DependentUpon>CoverPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Page1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Page1.Designer.cs">
+      <DependentUpon>Page1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Page2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Page2.Designer.cs">
+      <DependentUpon>Page2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Page3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Page3.Designer.cs">
+      <DependentUpon>Page3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Page4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Page4.Designer.cs">
+      <DependentUpon>Page4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Page5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Page5.Designer.cs">
+      <DependentUpon>Page5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Page6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Page6.Designer.cs">
+      <DependentUpon>Page6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Page7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Page7.Designer.cs">
+      <DependentUpon>Page7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Page8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Page8.Designer.cs">
+      <DependentUpon>Page8.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Page1.resx">
+      <DependentUpon>Page1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Page2.resx">
+      <DependentUpon>Page2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Page3.resx">
+      <DependentUpon>Page3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Page4.resx">
+      <DependentUpon>Page4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Page5.resx">
+      <DependentUpon>Page5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Page6.resx">
+      <DependentUpon>Page6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Page7.resx">
+      <DependentUpon>Page7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Page8.resx">
+      <DependentUpon>Page8.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
